@@ -1,1 +1,1 @@
-This is a line of code - Jethro
+A repo to learn about git
